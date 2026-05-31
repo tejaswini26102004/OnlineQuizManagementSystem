@@ -4,8 +4,8 @@ Full-stack Online Quiz Management System built with ASP.NET Core Web API, Entity
 
 🚀 How to Run Project 2
 
-Open Visual Studio → open QuizPortal → press F5
-Open Command Prompt → go to frontend folder → run npm start
+Open Visual Studio → open QuizPortal → press F5(run)
+Open Command Prompt → go to frontend folder → run npm start. (automatically the browser will be opened)
 Open browser → http://localhost:3000
 
 To run tests:
