@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+
+# Node modules
+node_modules/
+
+# Other
+*.log
