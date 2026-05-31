@@ -12,3 +12,5 @@ To run tests:
 
 Backend + Selenium → Visual Studio → Test → Run All Tests
 Frontend Jest → Command Prompt inside frontend → npm test -- --watchAll=false
+
+only selenium test needs both the backend and the frontend to be running
